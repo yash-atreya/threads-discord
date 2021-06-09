@@ -25,7 +25,7 @@ All commands should begin with "~", which is the prefix for the bot
     
     Reply:
     
-    <img src="./images/recent_reply.png" width="100%" height="100%">
+    ![recent](./images/recent_reply.png)
 
 - categories
 
@@ -36,7 +36,7 @@ All commands should begin with "~", which is the prefix for the bot
     ```
     Reply:
 
-    <img src="./images/categories_reply.png" width="100%" height="100%">
+    ![categories](./images/categories_reply.png)
 
 - category
 
@@ -59,7 +59,7 @@ All commands should begin with "~", which is the prefix for the bot
 
     Reply:
 
-    <img src="./images/category_reply.png" width="100%" height="100%">
+    ![category](./images/category_reply.png)
 
 - search
 
@@ -73,4 +73,4 @@ All commands should begin with "~", which is the prefix for the bot
 
     Reply:
 
-    <img src="./images/search_reply.png" width="100%" height="100%">
+    ![search](./images/search_reply.png)

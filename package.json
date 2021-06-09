@@ -5,11 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Yash Atreya",
   "license": "MIT",
-  "repository": {"url": "https://github.com/yash-atreya/threads-discord"},
+  "repository": {
+    "url": "https://github.com/yash-atreya/threads-discord"
+  },
   "dependencies": {
     "axios": "0.21.1",
     "build-url": "6.0.1",

@@ -2,13 +2,17 @@
 
 Discord bot for the incredible [threads_reader app](https://threads-web.vercel.app)
 
+## What is threads_reader?
+
+Here's a [preview](https://www.youtube.com/watch?v=-Wto4p13KZg)
+
 ## Installation
 
 Add this bot to your discord server by click [here](https://discord.com/api/oauth2/authorize?client_id=850254139233271838&permissions=26624&scope=bot)
 
 ## Bot Commands
 
-<i>All commands should begin with "~", which is the prefix for the bot</i>
+All commands should begin with "~", which is the prefix for the bot
 
 - recent
 

@@ -1,10 +1,7 @@
-<h1 align="center">threads-discord-bot</h1>
+# threads-discord-bot
 
-<div align="center">
+Discord bot for the incredible [threads_reader app](https://threads-web.vercel.app)
 
-<i>Discord bot for the incredible [threads_reader app](https://threads-web.vercel.app)</i>
-
-</div>
 
 ## Bot Commands
 

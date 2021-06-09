@@ -10,6 +10,10 @@ const ENDPOINT = process.env.ENDPOINT;
 const PREFIX = '~';
 client.login(process.env.BOT_TOKEN);
 
+client.on('ready', () => {
+  console.log('Bot is online and running!')
+})
+
 client.on('message', (message) => {
   if (message.author.bot) return;
   if (!message.content.startsWith(PREFIX)) return;
